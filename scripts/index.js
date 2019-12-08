@@ -10,7 +10,7 @@ const addresses = [
     "https://duckduckgo.com"
 ];
 
-
+ 
 function linkWithPath(linkPath) {
     const a = document.createElement("a");
     a.href = linkPath;
